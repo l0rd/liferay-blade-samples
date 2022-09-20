@@ -1,5 +1,11 @@
 # Sample Projects for Liferay Portal
 
+[![Contribute](https://img.shields.io/static/v1?label=open%20on%20sandbox&message=with%20theia&logo=eclipseche&color=FDB940&labelColor=525C86)]([https://workspaces.openshift.com#https://github.com/l0rd/liferay-blade-samples)
+
+[![Contribute](https://img.shields.io/static/v1?label=open%20on%20sandbox&message=with%20vscode&logo=eclipseche&color=FDB940&labelColor=525C86)]([https://workspaces.openshift.com#https://github.com/l0rd/liferay-blade-samples?che-editor=che-incubator/che-code/insiders)
+
+[![Contribute](https://img.shields.io/static/v1?label=open%20on%20sandbox&message=with%20intelliJ&logo=eclipseche&color=FDB940&labelColor=525C86)]([https://workspaces.openshift.com#https://github.com/l0rd/liferay-blade-samples?che-editor=che-incubator/che-idea/next)
+
 Liferay's sample projects provides bootstrap project environments for all major
 build tools in common use for Java projects so that Liferay development can
 start quickly and easily. These templates can be copied freely and contributions
